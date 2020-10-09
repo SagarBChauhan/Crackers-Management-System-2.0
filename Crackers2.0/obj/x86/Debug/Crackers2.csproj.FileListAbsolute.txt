@@ -1,0 +1,6 @@
+E:\Study\SEM4\GUI Programming\Project\Crackers2.0\Crackers2.0\obj\x86\Debug\Crackers2.Home.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers2.0\Crackers2.0\obj\x86\Debug\Login.Login.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers2.0\Crackers2.0\obj\x86\Debug\Crackers2._0.Properties.Resources.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers2.0\Crackers2.0\obj\x86\Debug\Crackers2.csproj.GenerateResource.Cache
+E:\Study\SEM4\GUI Programming\Project\Crackers2.0\Crackers2.0\obj\x86\Debug\Crackers2.0.exe
+E:\Study\SEM4\GUI Programming\Project\Crackers2.0\Crackers2.0\obj\x86\Debug\Crackers2.0.pdb
